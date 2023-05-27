@@ -1,0 +1,10 @@
+Customer1:pass1:2
+Manager1:pass2:1
+Customer2:password3:2
+Customer4:password4:2
+Customer5:password6:2
+User1:1345ew1345:2
+User:123:2
+User1:123:2
+User2:123:2
+Manager2:1234:1
